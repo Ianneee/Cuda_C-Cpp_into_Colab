@@ -5,7 +5,7 @@ You can find the steps to follow inside the [Tutorial.ipynb](https://github.com/
 directly within Colab and execute the required code to try it out immediately.
 
 ### TL;DR
-Add and run the following cells into a notebook:
+Select `Runtime > Change runtime type > T4 GPU` into the notebook and use the following cells:
 
 ```
 # Upload file
